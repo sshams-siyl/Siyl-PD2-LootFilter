@@ -10,9 +10,7 @@ Installing this filter can be done by:
 
 2: Navigating to the root directory of Project Diablo 2 (not blizzard's Diablo 2)
 
-3: Either replacing the default.filter file in this foler or renaming this file to loot.filter and placing it here. 
-
-(make sure to save/rename in another lcoation before then moving it here)
+3: Either replacing the default.filter file in this foler or renaming this file to loot.filter and placing it here. (make sure to save/rename in another lcoation before then moving it here)
 
 More instructions can be found here: 
 https://projectdiablo2.miraheze.org/wiki/Item_Filtering
