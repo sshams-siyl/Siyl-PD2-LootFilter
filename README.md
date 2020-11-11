@@ -1,5 +1,6 @@
 # Siyl-PD2-LootFilter
-A simple loot filter for Project Diablo 2. Does many of the basic & intermediate functions of plenty of other mods + some advanced functions. Largely based off the good work of ElPocoBurrito's loot filter which can be found here: 
+A simple loot filter for Project Diablo 2. Does many of the basic & intermediate functions of plenty of other mods + some advanced functions. 
+Largely based off the good work of ElPocoBurrito's loot filter which can be found here: 
 https://github.com/rockbyo5/PocoLootFilter/
 
 This filter has deviated much from the code found above. This filter is less strict, focuses more on clarity of text and effciency of looting.
